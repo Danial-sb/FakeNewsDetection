@@ -6,8 +6,8 @@ You can run the code either on Colab or by cloning the repository.
 To run the code on Colab, click [`here`](https://github.com/Danial-sb/FakeNewsDetection/blob/main/FinalProject.ipynb) to open the notebook.
 ### Cloning the Repository
 To clone the repository, run the following command in your terminal:<br/>
-`git clone https://github.com/Danial-sb/FakeNewsDetection`
+`git clone https://github.com/Danial-sb/FakeNewsDetection`<br/>
 Then, navigate to the project directory and run the following command to start the program:<br/>
-`python run.py`
+`python run.py`<br/>
 You can change the arguments in your preferences, for example for changing the dataset, you can use the following command:<br/>
-`python run.py --dataset="politifact"`
+`python run.py --dataset="politifact"`<br/>
